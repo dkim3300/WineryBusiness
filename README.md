@@ -2,7 +2,7 @@
 
 ### Project Description:
 
-The domain of this project model is winery businesses that will focus on two operational data related to Vineyards (Growers and Manufacturers) and Wineries (Producers and Sellers).
+This project demonstrates a database system for winery businesses that focuses on two key operational data related to Vineyards (Growers and Manufacturers) and Wineries (Producers and Sellers).
 
 ### Tech Stack:
 
