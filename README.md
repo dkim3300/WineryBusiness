@@ -1,6 +1,4 @@
-# CPSC 304: Group Project
-
-## Wine Business Management System
+# Wine Business Management System
 
 ### Project Description:
 
