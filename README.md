@@ -4,7 +4,7 @@
 
 ### Project Description:
 
-The domain our project models is wine businesses. That is, we will focus on key operational data related to vineyards (which grow grapes) and wineries (which produce wine).
+The domain of this project model is winery businesses that will focus on two operational data related to Vineyards (Growers and Manufacturers) and Wineries (Producers and Sellers).
 
 ### Tech Stack:
 
